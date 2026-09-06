@@ -1,1 +1,2 @@
 aiogram==3.18.0
+pydantic-core==2.27.2
